@@ -1,0 +1,128 @@
+UUID:5ca57559-cbf7-b003-5e8f-246e96748928
+Object path: /vmfs/volumes/vsan:52d6592a3c91e89a-b9e1d2bf17a75177/4fc94c59-bb9f-144e-84d0-246e96748928/ADEVLGRE3VRO001-000001.vmdk
+
+VM ADEVLGRE3VRO001 desn't exist anymore
+
+-------------------------------------------
+
+UUID:a213805e-4440-2507-409b-246e96748948
+Object path: /vmfs/volumes/vsan:52e8f45a73a82c9c-07eee4be282c9b02/c403ba5a-d135-2a29-9487-246e96748738/BDEVWGRE3AGT501-000002.vmdk
+
+VM BDEVWGRE3AGT501 doesn't have a snapshot, is not using that disk
+
+------------------------------------------
+
+UUID:ddbec55f-1c4b-d308-9e36-246e96748738
+Object path: /vmfs/volumes/vsan:52e8f45a73a82c9c-07eee4be282c9b02/e979605a-8ff4-5c8c-f089-246e96748928/ADEVWGRE3AGT001_1-000002.vmdk
+
+ADEVWGRE3AGT001 doesn't have a snapshot, is not using that disk
+
+--------------------------------------
+
+UUID:de027759-cb45-b615-e3eb-246e96748948
+Object path: /vmfs/volumes/vsan:52d6592a3c91e89a-b9e1d2bf17a75177/db027759-a263-e90d-a341-246e96748948/VCAC-CENTOS6U6-V2.vmdk
+
+VCAC-CENTOS6U6-V2 desn't exist anymore
+
+-----------------------------
+UUID:e5eb335e-2383-5b16-f448-246e96748738
+Object path: /vmfs/volumes/vsan:52e8f45a73a82c9c-07eee4be282c9b02/e1eb335e-cba5-5e74-b5d3-246e96748738/ADEVLGRE3VRO007.vmdk
+
+[vSANDatastoreDEVGRE3MGT001] c2ef335e-5bc7-c873-3423-246e967488d8/ADEVLGRE3VRO007.vmdk - VM ADEVLGRE3VRO007 uses this one
+
+------------------------------
+UUID:0a731661-d07d-971b-b765-246e96748948
+Object path: /vmfs/volumes/vsan:52e8f45a73a82c9c-07eee4be282c9b02/e2721661-fc35-5110-59e7-246e96748948/devlgre3vcs002_Clone_17.vmdk
+
+devlgre3vcs002_Clone_17 desn't exist anymore
+
+-----------------------------------------
+
+UUID:5ca57559-6741-4e1c-6e35-246e96748928
+Object path: /vmfs/volumes/vsan:52d6592a3c91e89a-b9e1d2bf17a75177/4fc94c59-bb9f-144e-84d0-246e96748928/ADEVLGRE3VRO001_1-000001.vmdk
+
+ADEVLGRE3VRO001 desn't exist anymore
+
+-------------------------------------------
+
+UUID:d8a79761-da09-4539-3096-246e9674892c
+Object path: /vmfs/volumes/vsan:52e8f45a73a82c9c-07eee4be282c9b02/81cd9461-4a2f-abc6-3cff-246e9674892c/adevlgre3repo01_1.vmdk
+
+[vSANDatastoreDEVGRE3MGT001] 81cd9461-4a2f-abc6-3cff-246e9674892c/adevlgre3repo01_1.vmdk - VM adevlgre3repo01 uses this one
+
+----------------------------------
+
+UUID:30a89761-92c3-223e-b88c-246e9674892c
+Object path: /vmfs/volumes/vsan:52e8f45a73a82c9c-07eee4be282c9b02/81cd9461-4a2f-abc6-3cff-246e9674892c/adevlgre3repo01_3.vmdk
+
+[vSANDatastoreDEVGRE3MGT001] 81cd9461-4a2f-abc6-3cff-246e9674892c/adevlgre3repo01_3.vmdk - VM adevlgre3repo01 uses this one
+
+----------------------------------
+
+UUID:0b004959-4815-3249-559e-246e96748738
+Object path: /vmfs/volumes/vsan:52d6592a3c91e89a-b9e1d2bf17a75177/08004959-6a77-871f-ccb1-246e96748738/VCAC-SLES11SP4-v3r6.vmdk
+
+VCAC-SLES11SP4 desn't exist anymore
+
+----------------------------------------
+
+UUID:51c94c59-f447-f456-64e4-246e96748928
+Object path: /vmfs/volumes/vsan:52d6592a3c91e89a-b9e1d2bf17a75177/4fc94c59-bb9f-144e-84d0-246e96748928/ADEVLGRE3VRO001.vmdk
+
+ADEVLGRE3VRO001 desn't exist anymore
+
+-----------------------------------------
+
+UUID:39f7d25f-743d-0a60-213d-246e96748948
+Object path: /vmfs/volumes/vsan:52e8f45a73a82c9c-07eee4be282c9b02/1e0dd659-a50b-e22b-3383-246e96748948/DEVWGRE3ADC001-000002.vmdk
+
+
+[vSANDatastoreDEVGRE3MGT001] 1e0dd659-a50b-e22b-3383-246e96748948/DEVWGRE3ADC001.vmdk - VM  DEVWGRE3ADC001 uses this one
+
+-------------------------------------------
+
+UUID:73cbc15f-55b2-e165-176a-246e96748738
+Object path: /vmfs/volumes/vsan:52e8f45a73a82c9c-07eee4be282c9b02/f2bf615a-83d6-a45f-6311-246e96748738/ADEVWGRE3AGT002_1-000002.vmdk
+
+[vSANDatastoreDEVGRE3MGT001] f2bf615a-83d6-a45f-6311-246e96748738/ADEVWGRE3AGT002.vmdk - VM ADEVWGRE3AGT002 uses this one
+
+--------------------------------------------
+
+UUID:8937a760-c58b-e06d-40e2-246e96748738
+Object path: /vmfs/volumes/vsan:52e8f45a73a82c9c-07eee4be282c9b02/f2bf615a-83d6-a45f-6311-246e96748738/ADEVWGRE3AGT002_1-000003.vmdk
+
+[vSANDatastoreDEVGRE3MGT001] f2bf615a-83d6-a45f-6311-246e96748738/ADEVWGRE3AGT002.vmdk - VM ADEVWGRE3AGT002 uses this one
+
+------------------------------------------
+
+UUID:447bc05f-10a4-976f-a715-246e96748738
+Object path: /vmfs/volumes/vsan:52e8f45a73a82c9c-07eee4be282c9b02/96c93b5a-8bd2-012f-d483-246e96748928/ADEVWGRE3VWD001-000002.vmdk
+
+[vSANDatastoreDEVGRE3MGT001] 96c93b5a-8bd2-012f-d483-246e96748928/ADEVWGRE3VWD001.vmdk - VM ADEVWGRE3VWD001 uses this one
+
+---------------------------------------------------
+
+UUID:52c94c59-a086-0d73-1427-246e96748928
+Object path: /vmfs/volumes/vsan:52d6592a3c91e89a-b9e1d2bf17a75177/4fc94c59-bb9f-144e-84d0-246e96748928/ADEVLGRE3VRO001_1.vmdk
+
+
+VM ADEVLGRE3VRO001 desn't exist anymore
+
+---------------------------------------------------
+
+UUID:12731661-6822-fb81-2a78-246e96748948
+Object path: /vmfs/volumes/vsan:52e8f45a73a82c9c-07eee4be282c9b02/e2721661-fc35-5110-59e7-246e96748948/devlgre3vcs002_Clone_23.vmdk
+
+VM devlgre3vcs002_Clone_23 desn't exist anymore
+
+---------------------------------------------
+
+UUID:62865161-4221-3988-a375-246e96748948
+Object path: /vmfs/volumes/vsan:52e8f45a73a82c9c-07eee4be282c9b02/5f865161-a429-3527-dd41-246e96748948/DEVLGRE3OMI001.vmdk
+
+[vSANDatastoreDEVGRE3MGT001] f1865161-3e91-3df2-fd3a-246e96748928/DEVLGRE3OMI001.vmdk - VM uses this one
+
+------------------------------------------------
+
+
+
